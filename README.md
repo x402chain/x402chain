@@ -1,4 +1,38 @@
-# x402 payments protocol
+<div align="center">
+
+  <!-- Banner -->
+  <img src="https://i.postimg.cc/zXrZDqrw/Untitled.jpg" alt="x402CHAIN Banner" width="800"/>
+
+  <h1>⚡ x402CHAIN · ERC-8004</h1>
+  <p><strong>From HTTP 402 → Crypto-Native Payments — The Value Exchange Layer for the AI Agent Era.</strong></p>
+
+  <!-- Links -->
+  <a href="https://x.com/x402chain_net" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-@x402chain__net-black?logo=x&logoColor=white&style=for-the-badge" alt="Follow on X"/>
+  </a>
+  <a href="https://x402chain.net" target="_blank">
+    <img src="https://img.shields.io/badge/Website-x402chain.net-gold?style=for-the-badge" alt="Website"/>
+  </a>
+  <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-8004/" target="_blank">
+    <img src="https://img.shields.io/badge/ERC--8004-Identity-blue?style=for-the-badge" alt="ERC-8004"/>
+  </a>
+
+</div>
+
+---
+
+### 🧠 Overview
+`x402CHAIN` bridges **ERC-8004** (trust & identity) and **x402** (payment)  
+to power the value exchange layer for the AI Agent economy —  
+**gasless, verifiable, autonomous**.
+
+---
+
+### 🌐 Learn More
+- Website → [x402chain.net](https://x402chain.net)  
+- X (Twitter) → [@x402chain_net](https://x.com/x402chain_net)
+
+# x402Chain payments protocol
 
 > "1 line of code to accept digital dollars. No fee, 2 second settlement, $0.001 minimum payment."
 
